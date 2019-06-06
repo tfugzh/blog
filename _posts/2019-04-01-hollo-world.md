@@ -2,7 +2,7 @@
 layout: post
 author: zoomq
 title: 你好,世界
-description: 永远的 Hallo World,说明团队 Blogging 系统的选择/分析/对比,当然有结论!
+description: 永远的 Hallo World,说明团队 Blogging 系统的选择/分析/对比,当然有结论...
 categories: Doc
 tags: IMHO
 ---
@@ -42,14 +42,9 @@ Hallo World!
     - [Home - shawhu的blog](http://shawhu.org/)
     - [Benedikt Meurer » Home](http://benediktmeurer.de/)
     - 快速完成设计!
-- 那么为什么不选择在 Github 发布呢?
-    - ![logo-21aabb25a8a173a5d7416109123c606e.png(PNG 图像,130x86 像素)|https://gitcafe.com/](https://gitcafe.com/assets/logo-21aabb25a8a173a5d7416109123c606e.png)
-    - 是另外一种力量感动了我们:
-        - [开源在中国需要什么? | Blog – GitCafe](http://blog.gitcafe.com/99.html)
-        - [代码托管服务GitCafe正式上线 | Blog – GitCafe](http://blog.gitcafe.com/10.html)
+
 
 所以,我们来,我们写,我们发布!
-
 
 
 ps: 测试语法顔色
