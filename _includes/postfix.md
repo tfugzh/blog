@@ -3,7 +3,7 @@
 
 <hr/>
 
-<h3>加入 珠海GDG</h3>
+<h3>加入 TFUG珠海</h3>
 <ol>
     <li>注册 <a href="https://www.meetup.com/">Meetup</a>
         </li>
