@@ -1,6 +1,6 @@
 root: /
 permalink: /:year-:month/:title/
-avatar: http://0.zoomquiet.top/ZHGDG/design/131129_ZHGDG_LOGO_h200.png
+avatar: http://0.zoomquiet.top/ZH_TFUG/_design/exp/zh_tfug_v2logo_h64.png
 # Name of your site (displayed in the header)
 name: zh.TFUG.world
 # Short bio or description (displayed in the header)
@@ -19,7 +19,16 @@ authors:
         name: Zoom Quiet
         display_name: Zoom.Quiet
         gravatar: 26221c6d3cedc50c506aa699e2765252
-        email: i@zoomquiet.io
+        email: zoomquiet+TFUG@gmail.com
+        web: http://zoomquiet.io
+        github: ZoomQuiet
+        gittip: https://www.gittip.com/ZoomQuiet/
+        coderwall: zoomquiet
+    tfug:
+        name: ZH_TFUG
+        display_name: ZH_TFUG
+        gravatar: 26221c6d3cedc50c506aa699e2765252
+        email: zoomquiet+TFUG@gmail.com
         web: http://zoomquiet.io
         github: ZoomQuiet
         gittip: https://www.gittip.com/ZoomQuiet/
