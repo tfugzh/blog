@@ -60,8 +60,9 @@
 <h4>订阅方法</h4>
 
 <ul>
-<li>查找公众号: <code>TFUG珠海</code></li>
+<li>查找公众号: <code>ZH_TFUG</code></li>
 <li>或扫描: 
+<img src="http://0.zoomquiet.top/ZH_TFUG/_design/QR/qrcode_for_ZH_TFUG_258.jpg"/>
 
 </li>
 </ul>
@@ -76,10 +77,10 @@
 <h3>TFUG珠海 社区资源:</h3>
 
 <ul>
-<li>邮件列表: tfug-zh@googlegroups.com
+<li>邮件列表: <a href="mailto:tfug-zh@googlegroups.com?subject=[ZH_TFUG]blog ~ ask: ">tfug-zh@googlegroups.com
   (可发空邮件到 tfug-zh+subscribe@googlegroups.com 即完成订阅)</li>
 
-<li>微信: TFUG珠海</li>
+<li>仓库: <a href="https://github.com/tfugzh">github.com/tfugzh</a> </li>
 
 <li>博客: <a href="http://zh.TFUG.world/about/"> TFUG珠海 . TFUG Livin ZhuHai Life;-)</a></li>
 </ul>
