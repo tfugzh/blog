@@ -15,7 +15,7 @@ tags:  gdg event meetup
 <!--more-->
 
 ## TF:
-TensorFlow™是一个基于数据流编程（dataflow programming）的符号数学系统，被广泛应用于各类机器学习（machine learning）算法的编程实现，其前身是谷歌的神经网络算法库DistBelief.
+TensorFlow™是一个基于数据流编程(dataflow programming)的符号数学系统,被广泛应用于各类机器学习(machine learning)算法的编程实现,其前身是谷歌的神经网络算法库DistBelief.
 
 这是官方说明, 基本上看过,还是不知道具体干什么的 ;-(
 
