@@ -4,7 +4,7 @@ title: TensorFlow All Around 内容
 description: ~ 社区活动, 值得掺合;-)
 author: zoomq
 categories: Events
-tags:  gdg event meetup
+tags:  tfug event meetup
 ---
 
 
