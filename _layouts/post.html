@@ -8,7 +8,11 @@ layout: default
   <div class="entry">
     {{ content }}
 
+
+{% include comments.md %}
+
 {% include postfix.md %}
+{% include announce.html %}
 
   </div>
 
@@ -26,6 +30,5 @@ layout: default
 
     </hr>
 
-  {% include comments.md %}
 
 </article>
